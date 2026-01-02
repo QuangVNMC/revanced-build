@@ -1,7 +1,6 @@
-Photos (arm64-v8a): 7.57.0.843750501  
-Photos (arm-v7a): 7.57.0.843750501  
-YouTube (arm64-v8a): 20.05.46  
-YouTube (arm-v7a): 20.05.46  
+Photos: 7.57.0.843750501  
+YouTube (arm64-v8a): 20.21.37  
+YouTube (arm-v7a): 20.21.37  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
