@@ -1,4 +1,4 @@
-Photos: 7.57.0.843750501  
+Photos: 7.59.0.856624550  
 YouTube (arm64-v8a): 20.21.37  
 YouTube (arm-v7a): 20.21.37  
 
