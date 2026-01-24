@@ -1,3 +1,4 @@
+Photos: 7.60.0.859276722  
 YouTube: 20.05.46  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
