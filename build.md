@@ -9,6 +9,9 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 Patches: anddea/patches-3.15.0.rvp  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0)
 
+Patches: crimera/patches-2.0.0-dev.21.rvp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v2.0.0-dev.21)
+
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
 Patches: ReVanced/patches-5.48.0.rvp  
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0)  
