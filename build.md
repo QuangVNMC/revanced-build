@@ -1,4 +1,3 @@
-Photos: 7.60.0.859276722  
 YouTube (arm64-v8a): 20.05.46  
 YouTube (arm-v7a): 20.05.46  
 
@@ -7,9 +6,9 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Patches: anddea/patches-3.15.0.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0)
-
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.48.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0)  
+Patches: anddea/patches-3.16.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.16.0)  
+
+Skipped:  
+Patches: ReVanced/patches-5.48.0.rvp    
