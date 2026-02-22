@@ -1,5 +1,3 @@
-Facebook: 490.0.0.63.82  
-Messenger: 548.0.0.37.65  
 Photos: 7.64.0.870575488  
 YouTube: 20.26.46  
 
