@@ -14,5 +14,4 @@ patcher-args = "-e 'Hide shortcuts' -Oexplore=true -Oshorts=true"
 [Photos]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-arch = "arm64-v8a"
 included-patches = "'Enable DCIM folders backup control'"
