@@ -1,5 +1,5 @@
 Messenger: 548.0.0.37.65  
-Photos: 7.58.0.855868081  
+Photos: 7.64.0.870575488  
 YouTube: 20.26.46  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -12,4 +12,7 @@ Patches: anddea/patches-3.16.0.rvp
 
 CLI: ReVanced/revanced-cli-5.0.1-all.jar  
 Patches: ReVanced/patches-5.50.2.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)
+
+Patches: ReVanced/patches-5.50.3-dev.3.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.3-dev.3)  
