@@ -1,3 +1,4 @@
+enable-module-update = false
 parallel-jobs = 1
 
 [YouTube]
