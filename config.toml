@@ -22,8 +22,14 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [GooglePhotos]
-patches-source = "https://gitlab.com/ReVanced/revanced-patches"
 arch = "both"
+included-patches = "'Enable DCIM folders backup control'"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+
+[GooglePhotos-DeReVanced]
+patches-source = "RookieEnough/De-ReVanced"
+arch = "arm64-v8a"
 included-patches = "'Enable DCIM folders backup control'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
