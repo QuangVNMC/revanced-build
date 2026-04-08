@@ -2,10 +2,10 @@ enable-module-update = true
 parallel-jobs = 1
 compression-level = 9
 remove-rv-integrations-checks = true
-cli-source = "MorpheApp/morphe-cli"
 
 [YouTube-NonRoot]
 patches-source = "anddea/revanced-patches"
+cli-source = "MorpheApp/morphe-cli"
 arch = "both"
 included-patches = "'Hide Shorts dimming'"
 patcher-args = "-e 'Hide shortcuts' -Oexplore=true -Oshorts=true -e 'Theme' -OdarkThemeBackgroundColor=#000000 -OlightThemeBackgroundColor=#FFFFFF"
@@ -14,6 +14,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [YouTube]
 patches-source = "anddea/revanced-patches"
+cli-source = "MorpheApp/morphe-cli"
 build-mode = "module"
 included-patches = "'Hide Shorts dimming'"
 patcher-args = "-e 'Hide shortcuts' -Oexplore=true -Oshorts=true -e 'Theme' -OdarkThemeBackgroundColor=#000000 -OlightThemeBackgroundColor=#FFFFFF"
@@ -21,7 +22,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [GooglePhotos]
-patches-source = "RookieEnough/De-ReVanced"
+patches-source = "https://gitlab.com/ReVanced/revanced-patches"
 arch = "both"
 included-patches = "'Enable DCIM folders backup control'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
