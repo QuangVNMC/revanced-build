@@ -38,11 +38,13 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [SoundCloud]
+enabled = false
 arch = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/soundcloud"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [GooglePhotos]
+enabled = false
 arch = "both"
 included-patches = "'Enable DCIM folders backup control'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
