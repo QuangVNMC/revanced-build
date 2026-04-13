@@ -22,6 +22,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [YouTube-Music-NonRoot]
+patches-source = "anddea/revanced-patches"
+cli-source = "MorpheApp/morphe-cli"
 arch = "both"
 included-patches = "'Disable music video in album' 'Hide overlay filter' 'Hide player overlay filter'"
 patcher-args = "-e 'Dark theme' -OdarkThemeBackgroundColor=#000000"
@@ -30,6 +32,8 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [YouTube-Music]
+patches-source = "anddea/revanced-patches"
+cli-source = "MorpheApp/morphe-cli"
 build-mode = "module"
 included-patches = "'Disable music video in album' 'Hide overlay filter' 'Hide player overlay filter'"
 patcher-args = "-e 'Dark theme' -OdarkThemeBackgroundColor=#000000"
