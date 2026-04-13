@@ -23,6 +23,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [YouTube-Music-NonRoot]
+enabled = false
 patches-source = "anddea/revanced-patches"
 cli-source = "MorpheApp/morphe-cli"
 arch = "both"
@@ -33,6 +34,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/20260413_20260413_0608"
 
 [YouTube-Music]
+enabled = false
 patches-source = "anddea/revanced-patches"
 cli-source = "MorpheApp/morphe-cli"
 arch = "arm64-v8a"
