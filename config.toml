@@ -11,6 +11,7 @@ included-patches = "'Hide Shorts dimming'"
 patcher-args = "-e 'Hide shortcuts' -Oexplore=true -Oshorts=true -e 'Theme' -OdarkThemeBackgroundColor=#000000 -OlightThemeBackgroundColor=#FFFFFF"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [YouTube]
 patches-source = "anddea/revanced-patches"
@@ -21,6 +22,7 @@ included-patches = "'Hide Shorts dimming'"
 patcher-args = "-e 'Hide shortcuts' -Oexplore=true -Oshorts=true -e 'Theme' -OdarkThemeBackgroundColor=#000000 -OlightThemeBackgroundColor=#FFFFFF"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [YouTube-Music-NonRoot]
 enabled = false
