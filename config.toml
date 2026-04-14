@@ -25,7 +25,6 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [YouTube-Music-NonRoot]
-enabled = false
 patches-source = "anddea/revanced-patches"
 cli-source = "MorpheApp/morphe-cli"
 arch = "both"
@@ -36,7 +35,6 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [YouTube-Music]
-enabled = false
 patches-source = "anddea/revanced-patches"
 cli-source = "MorpheApp/morphe-cli"
 arch = "arm64-v8a"
@@ -47,15 +45,11 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
-[SoundCloud]
-enabled = false
-arch = "both"
-apkmirror-dlurl = "https://apkmirror.com/apk/soundcloud"
-uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
-
 [GooglePhotos]
+patches-source = "RookieEnough/De-ReVanced"
+cli-source = "MorpheApp/morphe-cli"
 arch = "both"
 included-patches = "'Enable DCIM folders backup control'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-uptodown-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
