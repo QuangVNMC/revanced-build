@@ -46,7 +46,8 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [GooglePhotos]
-patches-source = "RookieEnough/De-ReVanced"
+enable = false
+#patches-source = "RookieEnough/De-ReVanced"
 cli-source = "MorpheApp/morphe-cli"
 arch = "both"
 included-patches = "'Enable DCIM folders backup control'"
