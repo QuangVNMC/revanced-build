@@ -33,7 +33,7 @@ included-patches = "'Disable music video in album' 'Hide overlay filter' 'Hide p
 patcher-args = "-e 'Dark theme' -OdarkThemeBackgroundColor=#000000"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/20260413_20260413_0608"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [YouTube-Music]
 enabled = false
@@ -45,7 +45,7 @@ included-patches = "'Disable music video in album' 'Hide overlay filter' 'Hide p
 patcher-args = "-e 'Dark theme' -OdarkThemeBackgroundColor=#000000"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/20260413_20260413_0608"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [SoundCloud]
 enabled = false
@@ -54,8 +54,8 @@ apkmirror-dlurl = "https://apkmirror.com/apk/soundcloud"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [GooglePhotos]
-enabled = false
 arch = "both"
 included-patches = "'Enable DCIM folders backup control'"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+uptodown-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
