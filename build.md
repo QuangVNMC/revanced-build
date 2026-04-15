@@ -1,6 +1,8 @@
+YouTube: 20.05.46  
 YouTube-Music: 8.30.54  
 YouTube-Music-NonRoot (arm64-v8a): 8.30.54  
 YouTube-Music-NonRoot (arm-v7a): 8.30.54  
+YouTube-NonRoot: 20.05.46  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
