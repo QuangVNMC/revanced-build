@@ -50,6 +50,7 @@ enabled = false
 #patches-source = "RookieEnough/De-ReVanced"
 #cli-source = "MorpheApp/morphe-cli"
 arch = "both"
+build-mode = "module"
 included-patches = "'Enable DCIM folders backup control'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
