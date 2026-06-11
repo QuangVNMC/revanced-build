@@ -1,3 +1,5 @@
+GooglePhotos (arm64-v8a): 7.68.0.884121604  
+GooglePhotos (arm-v7a): 7.68.0.884121604  
 YouTube: 20.05.46  
 YouTube-Music: 8.30.54  
 YouTube-Music-NonRoot (arm64-v8a): 8.30.54  
@@ -10,8 +12,12 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-CLI: MorpheApp/morphe-cli-1.8.0-all.jar  
 Patches: anddea/patches-4.0.0.mpp  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.0.0)
 
-CLI: revanced/revanced-cli-6.0.0-all.jar    
+Patches: crimera/patches-3.4.0.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.4.0)
+
+CLI: MorpheApp/morphe-cli-1.9.1-all.jar  
+Patches: RookieEnough/patches-1.0.4.mpp  
+[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.0.4)  
