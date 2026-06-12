@@ -6,7 +6,7 @@ remove-rv-integrations-checks = true
 [YouTube-NonRoot]
 patches-source = "anddea/revanced-patches"
 cli-source = "MorpheApp/morphe-cli"
-arch = "both"
+#arch = "both"
 included-patches = "'Hide Shorts dimming'"
 patcher-args = "-e 'Hide shortcuts' -Oexplore=true -Oshorts=true -e 'Theme' -OdarkThemeBackgroundColor=#000000 -OlightThemeBackgroundColor=#FFFFFF"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
@@ -16,7 +16,7 @@ archive-dlurl = "https://archive.org/download/random-unpatched-apks/apks/com.goo
 [YouTube]
 patches-source = "anddea/revanced-patches"
 cli-source = "MorpheApp/morphe-cli"
-arch = "arm64-v8a"
+#arch = "arm64-v8a"
 build-mode = "module"
 included-patches = "'Hide Shorts dimming'"
 patcher-args = "-e 'Hide shortcuts' -Oexplore=true -Oshorts=true -e 'Theme' -OdarkThemeBackgroundColor=#000000 -OlightThemeBackgroundColor=#FFFFFF"
@@ -27,7 +27,7 @@ archive-dlurl = "https://archive.org/download/random-unpatched-apks/apks/com.goo
 [YouTube-Music-NonRoot]
 patches-source = "anddea/revanced-patches"
 cli-source = "MorpheApp/morphe-cli"
-arch = "both"
+#arch = "both"
 included-patches = "'Disable music video in album' 'Hide overlay filter' 'Hide player overlay filter'"
 patcher-args = "-e 'Dark theme' -OdarkThemeBackgroundColor=#000000"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -37,7 +37,7 @@ archive-dlurl = "https://archive.org/download/random-unpatched-apks/apks/com.goo
 [YouTube-Music]
 patches-source = "anddea/revanced-patches"
 cli-source = "MorpheApp/morphe-cli"
-arch = "arm64-v8a"
+#arch = "arm64-v8a"
 build-mode = "module"
 included-patches = "'Disable music video in album' 'Hide overlay filter' 'Hide player overlay filter'"
 patcher-args = "-e 'Dark theme' -OdarkThemeBackgroundColor=#000000"
@@ -49,7 +49,7 @@ archive-dlurl = "https://archive.org/download/random-unpatched-apks/apks/com.goo
 enabled = true
 patches-source = "RookieEnough/De-Vanced"
 cli-source = "MorpheApp/morphe-cli"
-arch = "both"
+#arch = "both"
 included-patches = "'Enable DCIM folders backup control'"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 #uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
@@ -58,7 +58,7 @@ archive-dlurl = "https://archive.org/download/random-unpatched-apks/apks/com.goo
 [Twitter]
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
-arch = "both"
+#arch = "both"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 archive-dlurl = "https://archive.org/download/random-unpatched-apks/apks/com.twitter.android"
 version = "11.81.0-release.0"
