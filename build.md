@@ -1,4 +1,3 @@
-GooglePhotos: 7.69.0.892467371  
 Twitter: 11.81.0-release.0  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -6,12 +5,12 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Patches: anddea/patches-4.0.0.mpp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.0.0)
-
-Patches: crimera/patches-3.4.0.mpp  
-[Changelog](https://github.com/crimera/piko/releases/tag/v3.4.0)
+Patches: anddea/patches-4.1.0.mpp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.1.0)
 
 CLI: MorpheApp/morphe-cli-1.9.1-all.jar  
-Patches: RookieEnough/patches-1.0.4.mpp  
-[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.0.4)  
+Patches: crimera/patches-3.5.0.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.5.0)  
+
+Skipped:  
+Patches: RookieEnough/patches-1.0.4.mpp    
