@@ -17,4 +17,4 @@ Patches: anddea/revanced-patches/patches-4.2.0.mpp
 Patches: RookieEnough/De-Vanced/patches-1.4.4.mpp  
 [Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.4.4)
 
-CLI: MorpheApp/morphe-cli/morphe-desktop-1.16.0-all.jar    
+CLI: MorpheApp/morphe-cli/morphe-desktop-1.17.0-all.jar    
