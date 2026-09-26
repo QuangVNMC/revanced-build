@@ -1,8 +1,5 @@
-GooglePhotos: 7.92.0.977185651  
-YouTube (arm64-v8a): 20.51.39  
-YouTube (arm-v7a): 20.51.39  
-YouTube-Music (arm64-v8a): 9.15.51  
-YouTube-Music (arm-v7a): 9.15.51  
+YouTube: 20.51.39  
+YouTube-Music: 9.15.51  
 YouTube-Music-Root: 9.15.51  
 YouTube-Root: 20.51.39  
 
@@ -11,10 +8,15 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
+Patches: Akash-Sriram/morphe-google-photos/patches-1.11.0.mpp  
+[Changelog](https://github.com/Akash-Sriram/morphe-google-photos/releases/tag/v1.11.0)
+
 Patches: anddea/revanced-patches/patches-4.2.0.mpp  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.2.0)
 
-Patches: RookieEnough/De-Vanced/patches-1.4.4.mpp  
-[Changelog](https://github.com/RookieEnough/De-Vanced/releases/tag/v1.4.4)
+Patches: rushiranpise/morphe-patches/patches-1.22.0.mpp  
+[Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.22.0)
 
-CLI: MorpheApp/morphe-cli/morphe-desktop-1.17.0-all.jar    
+CLI: MorpheApp/morphe-cli/morphe-desktop-1.17.0-all.jar  
+Patches: SysAdminDoc/Hushfacebook/patches-0.1.6.mpp  
+[Changelog](https://github.com/SysAdminDoc/Hushfacebook/releases/tag/v0.1.6)  
