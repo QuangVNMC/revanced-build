@@ -2,10 +2,11 @@ enable-module-update = true
 parallel-jobs = 1
 compression-level = 9
 remove-rv-integrations-checks = true
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "ReVanced Extended"
 
 [YouTube]
 patches-source = "anddea/revanced-patches"
-cli-source = "MorpheApp/morphe-cli"
 arch = "arm64-v8a"
 included-patches = "'Hide Shorts dimming'"
 patcher-args = "-e 'Hide shortcuts' -Oexplore=true -Oshorts=true -e 'Theme' -OdarkThemeBackgroundColor=#000000 -OlightThemeBackgroundColor=#FFFFFF"
@@ -14,7 +15,6 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 
 [YouTube-Root]
 patches-source = "anddea/revanced-patches"
-cli-source = "MorpheApp/morphe-cli"
 arch = "arm64-v8a"
 build-mode = "module"
 included-patches = "'Hide Shorts dimming'"
@@ -24,7 +24,6 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 
 [YouTube-Music]
 patches-source = "anddea/revanced-patches"
-cli-source = "MorpheApp/morphe-cli"
 arch = "arm64-v8a"
 included-patches = "'Disable music video in album' 'Hide overlay filter' 'Hide player overlay filter'"
 patcher-args = "-e 'Dark theme' -OdarkThemeBackgroundColor=#000000"
@@ -33,7 +32,6 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 
 [YouTube-Music-Root]
 patches-source = "anddea/revanced-patches"
-cli-source = "MorpheApp/morphe-cli"
 arch = "arm64-v8a"
 build-mode = "module"
 included-patches = "'Disable music video in album' 'Hide overlay filter' 'Hide player overlay filter'"
@@ -42,21 +40,22 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [GooglePhotos]
-patches-source = "RookieEnough/De-Vanced"
-included-patches = "'Enable DCIM folders backup control'"
-cli-source = "MorpheApp/morphe-cli"
+patches-source = "Akash-Sriram/morphe-google-photos"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
 
 [Facebook]
 patches-source = "SysAdminDoc/Hushfacebook"
-cli-source = "MorpheApp/morphe-cli"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 
 [Messenger]
 patches-source = "rushiranpise/morphe-patches"
-cli-source = "MorpheApp/morphe-cli"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
+
+[AdGuard]
+patches-source = "rushiranpise/morphe-patches"
+arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adguard-software-limited/adguard/"
