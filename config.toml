@@ -42,20 +42,20 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 [GooglePhotos]
 patches-source = "Akash-Sriram/morphe-google-photos"
 arch = "arm64-v8a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
 
 [Facebook]
 patches-source = "SysAdminDoc/Hushfacebook"
 arch = "arm64-v8a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook"
 
 [Messenger]
 patches-source = "rushiranpise/morphe-patches"
 arch = "arm64-v8a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger"
 
 [AdGuard]
 patches-source = "rushiranpise/morphe-patches"
 arch = "arm64-v8a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/adguard-software-limited/adguard/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adguard-software-limited/adguard"
