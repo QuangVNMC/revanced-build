@@ -8,8 +8,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-Patches: Akash-Sriram/morphe-google-photos/patches-1.11.0.mpp  
-[Changelog](https://github.com/Akash-Sriram/morphe-google-photos/releases/tag/v1.11.0)
+Patches: Akash-Sriram/morphe-google-photos/patches-1.12.2.mpp  
+[Changelog](https://github.com/Akash-Sriram/morphe-google-photos/releases/tag/v1.12.2)
 
 Patches: anddea/revanced-patches/patches-4.2.0.mpp  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.2.0)
@@ -18,5 +18,5 @@ Patches: rushiranpise/morphe-patches/patches-1.22.0.mpp
 [Changelog](https://github.com/rushiranpise/morphe-patches/releases/tag/v1.22.0)
 
 CLI: MorpheApp/morphe-cli/morphe-desktop-1.17.0-all.jar  
-Patches: SysAdminDoc/Hushfacebook/patches-0.1.6.mpp  
-[Changelog](https://github.com/SysAdminDoc/Hushfacebook/releases/tag/v0.1.6)  
+Patches: SysAdminDoc/Hushfacebook/patches-0.2.0.mpp  
+[Changelog](https://github.com/SysAdminDoc/Hushfacebook/releases/tag/v0.2.0)  
