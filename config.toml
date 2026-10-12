@@ -7,10 +7,10 @@ cli-source = "MorpheApp/morphe-cli"
 patches-source = "rushiranpise/morphe-patches"
 arch = "arm64-v8a"
 patcher-args = "--unsigned"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/cloudflare/1-1-1-1-faster-safer-internet"
+direct-dlurl = "https://github.com/QuangVNMC/revanced-build/releases/download/0/com.cloudflare.onedotonedotonedotone_6.38.9-5641_4arch_7dpi_75lang_452366ace981d6df2da970876f00a166_apkmirror.com.apkm"
 
 [YouTube]
 patches-source = "anddea/revanced-patches"
 arch = "arm64-v8a"
 patcher-args = "--unsigned -e 'Change version code' -e 'Hide Shorts dimming' -e 'Hide accessibility controls dialog' -e 'Hide shortcuts' -Oexplore='true' -e 'Settings for YouTube' -OrvxSettingsLabel='ReVanced Extended' -e 'Translations for YouTube' -OselectedTranslations='vi-rVN' -OselectedStringResources='vi' -d 'Custom branding for YouTube' -d 'GmsCore support'"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+direct-dlurl = "https://github.com/QuangVNMC/revanced-build/releases/download/0/com.google.android.youtube_20.05.46-1552692672_4arch_7dpi_24lang_dc45ca545b0fa7ed91d0d816f544c61e_apkmirror.com.apkm"
