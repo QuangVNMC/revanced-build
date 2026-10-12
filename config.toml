@@ -13,4 +13,4 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/cloudflare/1-1-1-1-faster-safer
 patches-source = "anddea/revanced-patches"
 arch = "arm64-v8a"
 patcher-args = "--unsigned -e 'Change version code' -e 'Hide Shorts dimming' -e 'Hide accessibility controls dialog' -e 'Hide shortcuts' -Oexplore='true' -e 'Settings for YouTube' -OrvxSettingsLabel='ReVanced Extended' -e 'Translations for YouTube' -OselectedTranslations='vi-rVN' -OselectedStringResources='vi' -d 'Custom branding for YouTube' -d 'GmsCore support'"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
